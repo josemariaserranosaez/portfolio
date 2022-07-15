@@ -1,0 +1,15 @@
+.contenedor {
+    max-width: 120rem;
+    margin: 0 auto;
+    margin-top: 2rem;
+    width: 95%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border-color: black;
+    border-style: double;
+    gap: 2rem;
+  }
+
+.contenedor p {
+    margin: 5rem;
+}
