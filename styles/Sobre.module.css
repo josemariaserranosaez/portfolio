@@ -13,3 +13,10 @@
 .contenedor p {
     margin: 5rem;
 }
+
+.contenedor p span {
+    color: rgba(247, 0, 0, 0.815); 
+}
+.contenedor p span:hover {
+    color: rgba(50, 181, 207, 0.815); 
+}
